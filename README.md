@@ -5,7 +5,7 @@ In the 2D side-scroller game Rocket Mouse, the mouse is equipped with a rocket, 
 
 # Installation
 
-Use the executable file
+Use the setup executable file (Rocket Mouse Setup (x64).exe)
 
 ## Authors
 
